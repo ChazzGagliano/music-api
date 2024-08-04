@@ -5,18 +5,18 @@ This project is a Spotify Clone streaming service that utilizes 10,000 tracks, a
 
 Features:
 
-Search Functionality: Users can search for artists, albums, and tracks.
+- Search Functionality: Users can search for artists, albums, and tracks.
 
-Explore Music: Browse through a vast library of 10,000 tracks, albums, and artists.
+- Explore Music: Browse through a vast library of 10,000 tracks, albums, and artists.
 
-Liking/Unliking: Users can like and unlike any artist on the platform.
+- Liking/Unliking: Users can like and unlike any artist on the platform.
 
-Heardle: Guess the name of the song after listening to the first second.
+- Heardle: Guess the name of the song after listening to the first second.
 
-Create a Playlist: Using MongoDB, users can create and delete playlists.
+- Create a Playlist: Using MongoDB, users can create and delete playlists.
 
-Library within Playlist: Users can add hundreds of songs into each created playlist.
+- Library within Playlist: Users can add hundreds of songs into each created playlist.
 
 Future Plans:
 
-Make a playlist based on the users liked Artists.
+- Make a playlist based on the users liked Artists.

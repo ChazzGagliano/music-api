@@ -1,6 +1,7 @@
 # music-api
 Here's a sample README for your Spotify Clone project:
 External API: https://developer.spotify.com/documentation/web-api
+
 This project is a Spotify Clone streaming service that utilizes 10,000 tracks, albums, and artists worth of data from the Spotify API. Built with the MERN stack, it provides a seamless user experience for searching and exploring music.
 
 Features:
